@@ -29,14 +29,16 @@ Ex-financial analyst turned code enthusiast, bringing analytical precision and a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HighOnJalapenos"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HighOnJalapenos&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/HighOnJalapenos"><img src="https://github-readme-stats.vercel.app/api?username=HighOnJalapenos&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="HighOnJalapenos's GitHub stats" /></a>
 
-<a href="https://github.com/HighOnJalapenos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighOnJalapenos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/HighOnJalapenos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HighOnJalapenos&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/HighOnJalapenos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighOnJalapenos&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/HighOnJalapenos/PrimeMusicProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=PrimeMusicProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HighOnJalapenos/QuoraClone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=QuoraClone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/HighOnJalapenos/PrimeMusicProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=PrimeMusicProject&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/HighOnJalapenos/QuoraClone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=QuoraClone&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/HighOnJalapenos/Movie-Deck-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=Movie-Deck-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/HighOnJalapenos/Movie-Deck-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HighOnJalapenos&repo=Movie-Deck-Project&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a></div>
