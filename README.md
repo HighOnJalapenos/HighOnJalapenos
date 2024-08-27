@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Digvijay Singh
 ======================================================================================================================================
 
-Aspiring Full-Stack Web Developer
+Full-Stack Web Developer
 -----------------------
 
-Ex-financial analyst turned code enthusiast, bringing analytical precision and a passion for clean UI to the front-end game. Ready to learn, collaborate, and build!
+Ex-financial analyst turned code enthusiast, bringing analytical precision and a passion for clean UI to the front-end game and robust scalable back-end. Ready to learn, collaborate, and build!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://digvijaysinghportfolio.vercel.app/)
